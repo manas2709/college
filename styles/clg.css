@@ -1,0 +1,61 @@
+body
+{
+    background-image: url(bg_home.png);
+    background-size: cover;
+}
+
+.back
+{
+    margin-left: 1365px;
+    margin-top: 40px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background-color: #03a9f4;
+    padding: 0.625rem 1.25rem;
+    cursor: pointer;
+    border-radius: 0.6rem;
+    font-size: 1rem;
+}
+
+.container
+{
+    display: flex;
+    margin-right: 80px;
+    margin-left: 80px;
+    column-gap: 10px;
+}
+
+.box1
+{
+    margin-top: 10px;
+    margin-right: 80px;
+    margin-left: 80px;
+    background: rgba(0, 0, 0, 0.5);
+    height: 150px;
+    padding-left: 30px;
+    padding-top: 1px;
+    border-radius: 0.600rem;
+}
+
+.box2
+{
+    background: rgba(0, 0, 0, 0.5);
+    height: 450px;
+    width: 50%;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-top: 1px;
+    border-radius: 0.600rem;
+}
+
+.box3
+{
+    background: rgba(0, 0, 0, 0.5);
+    height: 450px;
+    width: 50%;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-top: 1px;
+    border-radius: 0.600rem;
+}
